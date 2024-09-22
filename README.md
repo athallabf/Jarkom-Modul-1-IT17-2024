@@ -1,7 +1,11 @@
-Athalla Barka Fadhil
-5027231018
+# Jarkom-Modul-1-IT17-2024 
 
-Jody Hezekiah 
+
+# Anggota Kelompok
+| Nama  | NRP  |
+|----------|----------|
+| Athalla Barka Fadhil  | 5027231018 |
+| Jody Hezekiah Tanasa Sagala | 5027221050 |
 
 ## Pegawai Negeri
 ![alt text](assets/image-37.png)
