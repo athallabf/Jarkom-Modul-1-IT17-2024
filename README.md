@@ -92,3 +92,6 @@
 ![alt text](img/image-7.png)
 ![alt text](img/image-8.png)
 ![alt text](img/image-9.png)
+
+## Revisi
+https://youtu.be/uoTMRIlQb5k
